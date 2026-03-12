@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Anki DB copy (temporary, never commit)
+anki_collection_copy.anki2
+
+# Generated data (contains your personal review history)
+anki_data.json
